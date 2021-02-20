@@ -18,3 +18,7 @@
 ### Go Patch ###
 /vendor/
 /Godeps/
+
+### Web Build ###
+/.idea/
+/web/dist/
